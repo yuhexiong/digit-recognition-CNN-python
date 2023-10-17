@@ -18,7 +18,7 @@
 
 ## Layer
 
-![image](https://github.com/yuhexiong/digit-recognition-CNN-python/blob/main/image/layers.png)
+![image](https://github.com/yuhexiong/digit-recognition-CNN-python/blob/main/image/cnn_layers.png)
 
 ## Confusion Matrix - Accuracy Rate 98.66%
 
