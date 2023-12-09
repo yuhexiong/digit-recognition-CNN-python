@@ -2,7 +2,11 @@
 
 ### DataSet From [Kaggle Competition - Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)
 
+## Overview
+
+- Language: Python v3.9.15
 - Package: Tensorflow
+- Model: CNN
 - Loss Function: Cross Entropy
 - Optimizer: Adam, Learning Rate = 0.0003
 - data augmentation to reduce overfitting
