@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Language: Python v3.9.15
+- Language: Python v3.10.12
 - Package: Tensorflow
 - Model: CNN
 - Loss Function: Cross Entropy
